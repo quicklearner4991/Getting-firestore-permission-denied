@@ -10,6 +10,6 @@ Go to firebase console and move to firestore setting and change the setting like
       allow read, write: if true;
     }
   }
-```}
+}
 
 
